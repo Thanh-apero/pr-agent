@@ -49,6 +49,7 @@ enable_ai_metadata = false # will enable adding ai metadata
 
 [pr_reviewer] # /review #
 # enable/disable features
+extra_instructions = "Answer in Vietnamese"
 require_score_review=false
 require_tests_review=true
 require_estimate_effort_to_review=true
